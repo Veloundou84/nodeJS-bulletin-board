@@ -1,6 +1,7 @@
 {
   "name": "vue-event-bulletin",
   "version": "1.0.0",
+  "private": "true",
   "description": "Demo application for the scotch.io tutorial",
   "main": "server.js",
   "author": "Ryan Chenkie, Jason Lam",
